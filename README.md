@@ -1,5 +1,7 @@
 # Frontend Mentor - Coding Bootcamp Testimonials Slider
 
+<a href="https://fozil1771.github.io/coding-bootcamp-testimonials-slider/">Live Preview</a>
+
 ![Design preview for the Coding Bootcamp Testimonials Slider coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
